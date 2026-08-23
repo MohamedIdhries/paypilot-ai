@@ -1,5 +1,10 @@
-# Frontend
+# PayPilot AI frontend
 
-Planned React + Vite + TypeScript shopper experience.
+The working PayPilot AI shopping companion interface. It turns a buyer's words into a considered shortlist with transparent reasoning.
 
-The first implementation will provide the chat surface, product recommendation cards, comparison state, cart state, Razorpay Checkout handoff, and verified order result states.
+## Run locally
+
+`npm install`
+`npm run dev`
+
+The page is a client-side first build. The composer, example prompts, catalog selector, session navigation, and shortlist state are interactive.
